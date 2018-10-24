@@ -1,0 +1,16 @@
+/Users/laurakallas/RiderProjects/Battleship/Game/bin/Debug/netcoreapp2.1/Game.deps.json
+/Users/laurakallas/RiderProjects/Battleship/Game/bin/Debug/netcoreapp2.1/Game.runtimeconfig.json
+/Users/laurakallas/RiderProjects/Battleship/Game/bin/Debug/netcoreapp2.1/Game.runtimeconfig.dev.json
+/Users/laurakallas/RiderProjects/Battleship/Game/bin/Debug/netcoreapp2.1/Game.dll
+/Users/laurakallas/RiderProjects/Battleship/Game/bin/Debug/netcoreapp2.1/Game.pdb
+/Users/laurakallas/RiderProjects/Battleship/Game/obj/Debug/netcoreapp2.1/Game.csprojAssemblyReference.cache
+/Users/laurakallas/RiderProjects/Battleship/Game/obj/Debug/netcoreapp2.1/Game.csproj.CoreCompileInputs.cache
+/Users/laurakallas/RiderProjects/Battleship/Game/obj/Debug/netcoreapp2.1/Game.AssemblyInfoInputs.cache
+/Users/laurakallas/RiderProjects/Battleship/Game/obj/Debug/netcoreapp2.1/Game.AssemblyInfo.cs
+/Users/laurakallas/RiderProjects/Battleship/Game/obj/Debug/netcoreapp2.1/Game.dll
+/Users/laurakallas/RiderProjects/Battleship/Game/obj/Debug/netcoreapp2.1/Game.pdb
+/Users/laurakallas/RiderProjects/Battleship/Game/bin/Debug/netcoreapp2.1/Domain.dll
+/Users/laurakallas/RiderProjects/Battleship/Game/bin/Debug/netcoreapp2.1/Domain.pdb
+/Users/laurakallas/RiderProjects/Battleship/Game/obj/Debug/netcoreapp2.1/Game.csproj.CopyComplete
+/Users/laurakallas/RiderProjects/Battleship/Game/bin/Debug/netcoreapp2.1/Initializers.dll
+/Users/laurakallas/RiderProjects/Battleship/Game/bin/Debug/netcoreapp2.1/Initializers.pdb

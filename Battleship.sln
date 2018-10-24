@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game", "Game\Game.csproj", "{26975952-2763-466B-B046-3DB91B1152EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{0C4BAD2F-26CD-4341-A234-33E1B7863529}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Initializers", "Initializers\Initializers.csproj", "{E7DA3A19-0FE1-4106-9CAF-24EDD2E7992E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26975952-2763-466B-B046-3DB91B1152EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26975952-2763-466B-B046-3DB91B1152EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26975952-2763-466B-B046-3DB91B1152EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26975952-2763-466B-B046-3DB91B1152EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C4BAD2F-26CD-4341-A234-33E1B7863529}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C4BAD2F-26CD-4341-A234-33E1B7863529}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C4BAD2F-26CD-4341-A234-33E1B7863529}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C4BAD2F-26CD-4341-A234-33E1B7863529}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7DA3A19-0FE1-4106-9CAF-24EDD2E7992E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7DA3A19-0FE1-4106-9CAF-24EDD2E7992E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7DA3A19-0FE1-4106-9CAF-24EDD2E7992E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7DA3A19-0FE1-4106-9CAF-24EDD2E7992E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

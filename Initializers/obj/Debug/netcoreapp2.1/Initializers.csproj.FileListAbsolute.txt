@@ -1,0 +1,12 @@
+/Users/laurakallas/RiderProjects/Battleship/Initializers/bin/Debug/netcoreapp2.1/Initializers.deps.json
+/Users/laurakallas/RiderProjects/Battleship/Initializers/bin/Debug/netcoreapp2.1/Initializers.dll
+/Users/laurakallas/RiderProjects/Battleship/Initializers/bin/Debug/netcoreapp2.1/Initializers.pdb
+/Users/laurakallas/RiderProjects/Battleship/Initializers/bin/Debug/netcoreapp2.1/Domain.dll
+/Users/laurakallas/RiderProjects/Battleship/Initializers/bin/Debug/netcoreapp2.1/Domain.pdb
+/Users/laurakallas/RiderProjects/Battleship/Initializers/obj/Debug/netcoreapp2.1/Initializers.csprojAssemblyReference.cache
+/Users/laurakallas/RiderProjects/Battleship/Initializers/obj/Debug/netcoreapp2.1/Initializers.csproj.CoreCompileInputs.cache
+/Users/laurakallas/RiderProjects/Battleship/Initializers/obj/Debug/netcoreapp2.1/Initializers.AssemblyInfoInputs.cache
+/Users/laurakallas/RiderProjects/Battleship/Initializers/obj/Debug/netcoreapp2.1/Initializers.AssemblyInfo.cs
+/Users/laurakallas/RiderProjects/Battleship/Initializers/obj/Debug/netcoreapp2.1/Initializers.csproj.CopyComplete
+/Users/laurakallas/RiderProjects/Battleship/Initializers/obj/Debug/netcoreapp2.1/Initializers.dll
+/Users/laurakallas/RiderProjects/Battleship/Initializers/obj/Debug/netcoreapp2.1/Initializers.pdb

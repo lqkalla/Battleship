@@ -1,0 +1,47 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/laurakallas/RiderProjects/Battleship/Initializers/Initializers.csproj",
+    "projectName": "Initializers",
+    "projectPath": "/Users/laurakallas/RiderProjects/Battleship/Initializers/Initializers.csproj",
+    "outputPath": "/Users/laurakallas/RiderProjects/Battleship/Initializers/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.1"
+    ],
+    "frameworks": {
+      "netcoreapp2.1": {
+        "projectReferences": {
+          "/Users/laurakallas/RiderProjects/Battleship/Domain/Domain.csproj": {
+            "projectPath": "/Users/laurakallas/RiderProjects/Battleship/Domain/Domain.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.1": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.1.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
